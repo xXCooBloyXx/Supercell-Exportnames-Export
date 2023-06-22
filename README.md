@@ -1,4 +1,4 @@
-A tool which allows you to export export names from .sc files from any supercell game
+A tool which allows you to export export names from .sc files brawl stars game - supercell game (Works only for new versions)
 
 How to use?
 1. Run main.py
